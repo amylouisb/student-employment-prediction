@@ -32,6 +32,3 @@ The model analyzes **10,000 student records** with the following attributes:
 1. **Baseline Training**: Evaluated standard models on raw data  
 2. **Feature Importance**: Identified "Projects" and "Extra-Curriculars" as critical differentiators  
 3. **Model Optimization**: Used RandomizedSearchCV for hyperparameter tuning
-
-```bash
-git clone https://github.com/yourusername/student-employment-prediction.git
